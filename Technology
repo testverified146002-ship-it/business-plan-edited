@@ -1,0 +1,33 @@
+## TECHNOLOGY OVERVIEW
+
+### Agent Platform (Built)
+- **Frontend:** React 18, Tailwind CSS, Shadcn UI
+- **Backend:** FastAPI (Python), ~1,900 lines server
+- **Database:** MongoDB (provisioned, currently JSON files — migration planned)
+- **AI:** OpenAI GPT-4o integration for image analysis and data extraction
+- **Email Generation:** Custom HTML generator with 4 template types, 11 modular generator files
+- **CRM:** Full pipeline (Inquiry > Quoted > Booked > Traveled > Inactive)
+- **Invoicing:** CRUD with payment status tracking, PDF export
+- **Client Portal:** Shareable public links with view tracking
+- **Calendar:** Google, Outlook, Yahoo, ICS integration
+
+### Referral Hub (Built)
+- **Platform:** WordPress Plugin v3.0.1
+- **Auth:** Session-based with 24-hour timeout
+- **Dashboard:** 5 tabs (Home, Dashboard, Handbook, Benefits, Payment)
+- **Signup:** Multi-step quiz (5 questions) + application form
+- **Mock Data:** Development system ready for production data sources
+
+### Remaining Development
+| Feature | Priority | Est. Effort |
+|---------|----------|-------------|
+| MongoDB migration (JSON > MongoDB) | P0 | 2-3 weeks |
+| User authentication system | P0 | 2-3 weeks |
+| Lead marketplace | P0 | 3-4 weeks |
+| Main public website | P0 | 4-6 weeks |
+| Stripe payment integration | P1 | 2-3 weeks |
+| RateHawk API integration | P1 | 3-4 weeks |
+| Agent onboarding flow | P1 | 2-3 weeks |
+| Production deployment & security | P1 | 2-3 weeks |
+| Referral hub production data integration | P1 | 2-3 weeks |
+| Auto-save, email sequences, CSV export | P2 | 3-4 weeks |
