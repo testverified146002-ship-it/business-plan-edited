@@ -1,0 +1,146 @@
+##  BUSINESS MODEL & REVENUE STREAMS
+
+### Revenue Stream 1: Agent Subscription Fees
+| Item | Amount |
+|------|--------|
+| Signup fee | $299 (one-time) |
+| Monthly subscription | $45/month ($540/year) |
+| **Annual fee revenue per agent** | **$839** |
+
+### Revenue Stream 2: Agent Commission Split
+Using RateHawk's net rate markup model:
+- Agents receive wholesale net rates (typically 15-25% below retail)
+- Agents set their own markup freely (recommended 15-25%)
+- Trip Tailors takes 20% of the agent's markup/commission (standard tier)
+
+| Metric | Conservative | Moderate | Optimistic |
+|--------|-------------|----------|------------|
+| Avg booking commission | $300 | $600 | $900 |
+| Bookings/agent/month | 3 | 5 | 7 |
+| Annual bookings/agent | 36 | 60 | 84 |
+| TT annual commission/agent (20%) | $2,160 | $7,200 | $15,120 |
+
+### Revenue Stream 3: Lead Marketplace
+Leads generated from the Referral Hub and Public Website are sold to agents:
+| Lead Strength | Price | Description |
+|---------------|-------|-------------|
+| Standard | $5 | Basic inquiry, minimal detail, low budget |
+| Qualified | $10 | Budget, destination, dates confirmed, modest budget |
+| Premium | $20 | High budget, specific requirements, departure location |
+
+Agents see key details (budget, destination, departure location, number of travelers) and choose which leads to purchase.
+
+### Revenue Stream 4: Referral Program (NET COST)
+This is a **cost center** that feeds the lead marketplace:
+- $50 paid per booked referral to the referrer
+- Monthly rewards add additional costs for high-performing referrers
+- **Offset by:** Lead marketplace revenue + commission splits on referred bookings
+
+### Combined Revenue Per Agent (Annual, Moderate Scenario)
+| Source | Amount |
+|--------|--------|
+| Subscription fees | $839 |
+| Commission split (20% of $500 × 60) | $6,000 |
+| Lead purchases (avg 3/month × $10) | $360 |
+| **Total average revenue per agent** | **$7,199** |
+
+### Unit Economics
+| Metric | Value |
+|--------|-------|
+| Agent Acquisition Cost | $150-$300 (marketing + onboarding) |
+| Lifetime Value (LTV, 3-year avg) | $21,597
+| LTV:CAC Ratio | 70-140x |
+| Monthly churn target | <5% |
+| Payback period | 1-2 months |
+
+---
+
+##  COMMISSION TIER STRUCTURE
+
+Agents progress through tiers based on **cumulative qualifying bookings** (lifetime, not annual). This rewards loyalty and consistent performance.
+
+**A qualifying booking is:**
+- Fully paid by the client
+- Not cancelled or refunded before departure
+- Booked through Trip Tailors' platform/RateHawk integration
+- Minimum agent comission value of $200 (client price)
+
+| Tier | Annual Comission and planning fee earnings Value | Commission Split (Agent/TT) |
+|------|---------------------|-----------------------------|
+| **Starter** | $0-$40,000 | 75 / 25 |
+| **Rising** | $40,000 | 80 / 20 |
+| **Expert** | $60,000 | 85 / 15 |
+| **Elite** | $100,000 | 90 / 10 |
+
+*Based on moderate scenario: 60 bookings/year × $600 avg commission
+
+**Why cumulative (not annual):**
+- Rewards long-term agents, reducing churn
+- Creates a psychological "sunk cost" that discourages switching to competitors
+- Simpler for agents to track ("I'm 12 bookings away from Rising")
+- Doesn't punish agents for slow months
+
+**Impact on Trip Tailors' Revenue:**
+As agents progress, per-agent commission revenue decreases, but this is offset by:
+1. Higher-tier agents book more volume (more total revenue despite lower %)
+2. Lower churn = lower acquisition costs
+3. Successful agents attract other agents through word-of-mouth
+4. The subscription + lead marketplace revenue remains constant regardless of tier
+
+---
+
+## 10. FINANCIAL SUMMARY
+
+*See FINANCIAL_MODEL.md for detailed projections*
+
+### Year 1 Revenue Projections (3 Scenarios)
+
+| Metric | Conservative | Moderate | Optimistic |
+|--------|-------------|----------|------------|
+| Agents (Month 12) | 40 | 65 | 100 |
+| Avg bookings/agent/month | 3 | 4 | 6 |
+| Avg commission/booking | $500 | $700 | $900 |
+| Annual commission revenue (20% cut) | $144,000 | $436,800 | $1,296,000 |
+| Annual subscription revenue | $20,160 | $35,100 | $58,200 |
+| Annual lead marketplace revenue | $15,600 | $39,000 | $78,000 |
+| **Total Year 1 Revenue** | **$179,500** | **$533,000** | **$1,436,000** |
+| Referral costs (deducted) | -$12,000 | -$24,000 | -$48,000 |
+| **Net Revenue** | **$167,500** | **$509,000** | **$1,388,000** |
+
+### Investment Summary
+| Category | Amount |
+|----------|--------|
+| Dubai incorporation & setup | $20,000 |
+| Development & deployment | $50,000 |
+| Operational costs (12 months) | $50,000 |
+| Legal fees | $40,000 |
+| Agent trainer (12 months) | $50,000 |
+| Founder salary (12 months) | $50,000 |
+| Accountant & admin | $8,000 |
+| Contingency buffer | $7,000 - $57,000 |
+| **Total Ask** | **$275,000 - $325,000** |
+
+### Equity
+- Pre-money valuation: $1.5M - $2.5M (based on traction, IP, and market potential)
+- Dilution: 12-18%
+- Instrument: SAFE note with valuation cap recommended
+
+---
+
+## 11. RISK ANALYSIS
+
+| Risk | Severity | Mitigation |
+|------|----------|------------|
+| Agent churn (agents leave for competitors) | High | Commission tiers reward loyalty; superior tools create switching costs; lead marketplace creates dependency |
+| Low agent acquisition | High | 50M weekly TikTok views provide organic recruitment channel; agents can see the platform works before signing |
+| Referral network underperformance | Medium | Diversify beyond TikTok; build SEO/direct website traffic; 3 existing referrers already proven |
+| Solo founder risk | Medium | Early hire of agent trainer; advisory board; structured processes reduce bus factor |
+| RateHawk dependency | Medium | RateHawk is one of several B2B platforms; can integrate alternatives (Hotelbeds, Bedsonline) |
+| Regulatory changes (Dubai/international) | Low | IC model with agent indemnification limits liability; free zone structure provides regulatory clarity |
+| Cash flow timing (commissions lag bookings) | Medium | Subscription revenue provides predictable base; 80/20 split ensures immediate commission flow |
+| Currency risk (multi-currency operations) | Low | Fixed charges in USD; agent local currency for commissions; hedging via multi-currency accounts |
+
+---
+
+
+
