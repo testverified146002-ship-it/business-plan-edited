@@ -1,0 +1,19 @@
+##  COMPETITIVE LANDSCAPE
+
+| Competitor | Model | Key Difference from Trip Tailors |
+|-----------|-------|----------------------------------|
+| **InteleTravel** | Traditional host agency | Agents use their credentials; monthly fee $39-$79; no lead marketplace |
+| **Fora Travel** | Modern host agency | Invite-only; US-focused; agents use Fora's credentials |
+| **Gifted Travel Network** | Luxury host agency | High-end focus; limited tech tools; US-centric |
+| **Avoya Travel** | Lead-gen host agency | Provides leads but demands shared credentials; US-only |
+| **Travel Planners International** | Traditional consortium | Outdated tech; limited tools; membership-based |
+
+**Trip Tailors' Competitive Advantages:**
+1. **Agent Independence** — No credential sharing. Agents keep their own IATA/ATOL. This is a fundamentally different legal and operational model.
+2. **Integrated Lead Engine** — Social media referral network with 50M+ weekly views feeding a lead marketplace. No competitor has this.
+3. **AI-Powered Tools** — Purpose-built email itinerary builder with AI image extraction, not generic CRM bolt-ons.
+4. **Global from Day 1** — Dubai incorporation + international IC model allows agents from any country.
+5. **Modern Tech Stack** — React + FastAPI + MongoDB (competitors run on legacy systems).
+6. **Cost Efficiency** — $45/month vs $79-$500/month for comparable tool suites.
+
+---
