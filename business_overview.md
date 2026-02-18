@@ -172,3 +172,28 @@ Trip Tailors solves these problems through three interconnected components:
 **Exit Potential:** Travel tech acquisitions typically at 5-10x ARR. At $10M ARR, exit range: $50-100M.
 
 ---
+
+## 8. FOUNDER & TEAM
+
+### Calum William O'Gorman — Founder & Director
+- **Education:** BSc Economics & Finance, University of East Anglia (UEA), graduated July 2025
+- **Experience:** Designed, built, and tested the Trip Tailors operational workflow by running it as a functioning travel agency in the UK, generating $20,500 in verified sales
+- **Technical:** Built the agent tool suite (React + FastAPI) and referral hub (WordPress) personally
+- **Marketing:** Established referral partnerships generating 50M+ weekly TikTok views across 3 contracted influencer accounts (@4k.journey, @8k.vibe, @not.mega)
+- **Legal/Business:** Incorporated Trip Tailors Travel Ltd (England & Wales, Company No. 16542016) and drafted enforceable referral partner contracts
+
+### Planned Hires (Post-Funding)
+| Role | Timing | Type | Annual Cost |
+|------|--------|------|-------------|
+| Agent Trainer & Support | Month 2-3 | Full-time (remote) | $50,000 |
+| Sales (Inbound Agent Inquiries) | Month 6-7 | Full-time or part-time | $40,000-$60,000 |
+
+### Outsourced
+| Function | Provider Type | Annual Budget |
+|----------|---------------|---------------|
+| Development (backend, deployment, testing) | Freelance dev team | $50,000 |
+| Legal (international IC contracts, compliance) | Law firms per market | $40,000 |
+| Accounting | Dubai-based startup accountant | $5,000-$8,000 |
+
+---
+
